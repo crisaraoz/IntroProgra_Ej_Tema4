@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\bin\Debug\netcoreapp3.1\Ejercicios tema 4.exe
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\bin\Debug\netcoreapp3.1\Ejercicios tema 4.deps.json
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\bin\Debug\netcoreapp3.1\Ejercicios tema 4.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\bin\Debug\netcoreapp3.1\Ejercicios tema 4.runtimeconfig.dev.json
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\bin\Debug\netcoreapp3.1\Ejercicios tema 4.dll
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\bin\Debug\netcoreapp3.1\Ejercicios tema 4.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\netcoreapp3.1\Ejercicios tema 4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\netcoreapp3.1\Ejercicios tema 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\netcoreapp3.1\Ejercicios tema 4.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\netcoreapp3.1\Ejercicios tema 4.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\netcoreapp3.1\Ejercicios tema 4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\netcoreapp3.1\Ejercicios tema 4.dll
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\netcoreapp3.1\Ejercicios tema 4.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema4\Ejercicios tema 4\Ejercicios tema 4\obj\Debug\netcoreapp3.1\Ejercicios tema 4.genruntimeconfig.cache
